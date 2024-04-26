@@ -43,7 +43,6 @@ module.exports = {
     static: {
       directory: path.resolve(__dirname, 'dist'),
     },
-    public: 'mebookmeta.com:3000',
     hot: true,
     historyApiFallback: true,
   },
